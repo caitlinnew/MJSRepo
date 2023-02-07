@@ -3,7 +3,8 @@
   "description": "",
   "spectralExtends": [],
   "extends": [
-    "cHJqOjEyMzU4Ng"
+    "cHJqOjEyMzU4Ng",
+    "cHJqOjE4MzA4NA"
   ],
   "formats": [
     "oas2",
@@ -27,6 +28,21 @@
       "description": "Default rules for Stoplight projects",
       "latestRelease": {
         "release": 37
+      }
+    },
+    {
+      "id": "cHJqOjE4MzA4NA",
+      "name": "MJSDemo",
+      "slug": "mjs-demo",
+      "workspace": {
+        "domain": "caitlin-custom-test.stoplight-dev.com",
+        "slug": "caitlin",
+        "name": "caitlin"
+      },
+      "icon": "exchange-alt",
+      "color": "#2C3A47",
+      "latestRelease": {
+        "release": 1
       }
     }
   ],
